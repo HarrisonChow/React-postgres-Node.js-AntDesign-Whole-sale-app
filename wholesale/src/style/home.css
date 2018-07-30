@@ -1,0 +1,26 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    padding-top: 25px;
+}
+.order, .promotion {
+    width: 100%;
+}
+.btn-container {
+    padding: 15px;
+}
+.ant-steps-item-finish .ant-steps-item-icon > .ant-steps-icon {
+    color: grey;
+}
+.ant-steps-item-finish > .ant-steps-item-tail:after {
+    background-color: grey;
+}
+.news {
+    padding: 15px;
+    margin-top: 25px;
+}
+.ant-list-header {
+    font-weight: 500;
+    font-size: 18px;
+}
